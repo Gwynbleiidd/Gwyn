@@ -1,0 +1,60 @@
+p{
+  font-family: TruenoRegular;
+  font-size: 16px
+}
+
+li {
+  font-family: TruenoRegular;
+  font-size: 15px;
+ }
+
+ h2 {
+   font-family: TruenoLightItalic;
+   font-size:  20px;
+ }
+ h3{
+   font-family: TruenoLightItalic;
+   font-size: 18px;
+ }
+
+h1{
+  font-family: TRUENOULTRABLACKITALIC;
+  color: blue;
+
+}
+
+/* j'ai esseyé de faire une baniere pour Hello Samsung */
+.box  {
+    background-color: blue;
+   border-color: blue;
+   border-width: 100%;
+    text-align: center;
+
+
+
+h4{
+  font-family: TruenoRegular;
+  font-size: 15px;
+}
+
+h5{
+  font-family: TruenoRegular;
+  font-size: 15px;
+}
+
+a:hover {
+  color: red;
+}
+label{
+  font-family: TruenoRegular;
+
+}
+body{
+  background-color:lightgray;
+}
+img {
+  width: 120px;
+}
+.thick-black-border{
+  border-style: solid;
+}
